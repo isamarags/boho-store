@@ -44,5 +44,5 @@ $ git clone git@github.com:rtcstr/boho-store.git
 
 ```
  ## 🔮 Deploy 
- https://vigorous-heyrovsky-ab3d7a.netlify.app/
+ https://isamarags.github.io/boho-store/
  
